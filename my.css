@@ -1,0 +1,205 @@
+body{
+	font-size: 25px;
+	padding:  0px;
+}
+div,p,input,button,form,span,a,ul,li{
+	box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 0;
+}
+header{
+	width: 1200px;
+	margin: 0 auto;
+	border: 5px solid red;
+
+}
+.container{
+	background: #3CB371; 
+	width: 400px;
+}
+.containerright{
+	background: #F5F5F5;
+}
+.foto{
+	width: 300px;
+	heigth: 300px;
+	padding-top: 30px;
+	padding-left: 22px;
+}
+.wripper{
+	display: flex;
+}
+
+.Bob{
+	margin-top: 50px;
+	font-size: 35px;
+	margin-bottom: 0px;
+}
+h3{
+	margin-top: 0px;
+}
+.Bob, h3{
+	text-align: center;
+}
+
+.education{	margin-left: 30px;
+	background: #FA8072;
+	}
+.middle{
+	margin-left: 30px;
+}
+.math{
+	margin-left: 30px;
+}
+.meducation{ 
+	margin-left: 65px;
+}
+.heducation{margin-left: 1px;}
+
+.high{
+	margin-left: 30px;
+}
+.speciality{
+	margin-left: 157px;
+	font-weight: bold;
+}
+.web{
+	margin-left: 157px;
+}
+.h1education{
+	margin-left: 125px;
+}
+.experiance{
+margin-left: 30px;
+	background: #FA8072;
+}
+.myexperiance{
+	margin-left: 30px;
+}
+.courses{
+	font-weight: bold;
+}
+.myskills{
+	margin-left: 30px;
+	background: #FA8072;
+}
+.skills{
+	width: 853px;
+	margin-bottom: 0px;
+}
+
+.interests{
+	margin-left: 22px;
+	background: #FA8072;
+	margin-right: 65px;
+}
+
+.wrapper2{
+	display: flex;
+}
+.basket{
+	width: 80px;
+	high: 80px;
+	margin-left: 5px;
+}
+.sport{
+	margin-left: 15px;
+}
+.text1{
+	margin-left: 10px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+.science{
+	width: 80px;
+	high: 80px;
+	margin-left: 5px;
+}
+.sport{
+ margin-top: 10px;
+}
+.text2{
+	margin-left: 10px;
+	text-align: center;
+	margin-top: 0px;
+}
+.language{
+	width: 80px;
+	high: 80px;
+	margin-left: 5px;
+}
+.text3{
+	margin-left: 10px;
+	text-align: center;
+	margin-top: 0px;
+}
+.contact{
+	background: #FA8072;
+	margin-right: 57px;
+	margin-top: 60px;
+	margin-bottom: 18px;
+}
+.house{
+	margin-top: 40px;
+	margin-left: 5px;
+	width: 45px;
+	heigth: 45px;
+}
+.phone{
+	margin-left: 5px;
+	width: 45px;
+	heigth: 45px;
+}
+.phone1{
+	margin-top: 20px;
+}
+.mail{
+	margin-left: 5px;
+	width: 45px;
+	heigth: 45px;
+}
+.mail1{
+	margin-top: 20px;
+}
+
+/*Responsive*/
+@media screen and (max-width: 1450px){
+	.wripper {
+		width: 1140px;
+	}
+}
+
+@media screen and (max-width: 1200px){
+	.wripper {
+		width: 960px;
+	}
+}
+
+@media screen and (max-width: 992px){
+	.wripper {
+		width: 720px;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.wripper {
+		width: 540px;
+	}
+}
+
+@media screen and (max-width: 576px){
+	.wripper {
+		width: 100%;
+	}
+}
+
+
+
+
+
+
+
+
+
